@@ -21,8 +21,8 @@ While designing the database try to account for the entities in your project and
 # Install Laravel
 I'll not go into too much depth on how to do this. Follow the instructions [here](https://laravel.com/docs/5.6/installation) and you should be good to go.
 
-# Project checklist
-At this point, before starting the project further, I highly recommend filling out a checklist. Some of the questions on this might include,
+# Project Q&A
+At this point, before coding further, I highly recommend filling out an excel with some questions and answers. Some of the questions on this might include,
 
 1. How much traffic do we expect the application to draw?
 2. Do we need to support multiple languages?
@@ -31,6 +31,8 @@ At this point, before starting the project further, I highly recommend filling o
 5. Will I need a REST API now or in the future to handle mobile devices? Is this a single page application?
 
 Those are a general set of questions that I came up with, but you'll probably have more based on the type of project that you are handling. It is good to be able to answer them now so you know what the scope of your project is, what plugins and third party services you'll need to integrate with.
+
+We will go through and answer some of the questions listed there subsequently in this guide.
 
 
 
